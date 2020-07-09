@@ -10,15 +10,17 @@ A web app to help students from across the College Match in LA to connect and su
 # ToDos
 ## backend
 - [x] set up repo
-- [] set up server
-- [] find place to host site/server
-- []
+- [ ] set up server
+- [ ] find place to host site/server
+- [ ]
+
 ## API testing
-- [] create dummy table in airtable
-- [] updates
-- [] pushes
-- [] pulls
-- [] clear
-- [] resets
+- [ ] create dummy table in airtable
+- [ ] updates
+- [ ] pushes
+- [ ] pulls
+- [ ] clear
+- [ ] resets
+
 ## frontend
-- [] 
+- [ ]
