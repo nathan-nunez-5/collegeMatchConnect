@@ -1,0 +1,19 @@
+{
+  "name": "collegematchconnect",
+  "version": "1.0.0",
+  "description": "A web app to help students from across the College Match in LA to connect and support one another",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nathan-nunez-5/collegeMatchConnect.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nathan-nunez-5/collegeMatchConnect/issues"
+  },
+  "homepage": "https://github.com/nathan-nunez-5/collegeMatchConnect#readme"
+}
