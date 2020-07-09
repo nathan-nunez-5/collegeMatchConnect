@@ -12,7 +12,6 @@ A web app to help students from across the College Match in LA to connect and su
 - [x] set up repo
 - [ ] set up server
 - [ ] find place to host site/server
-- [ ]
 
 ## API testing
 - [ ] create dummy table in airtable
@@ -23,4 +22,3 @@ A web app to help students from across the College Match in LA to connect and su
 - [ ] resets
 
 ## frontend
-- [ ]
